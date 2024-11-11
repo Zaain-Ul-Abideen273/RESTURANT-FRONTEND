@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.name{
+    padding-right: 20px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+.logo img {
+    justify-content: space-between;
+    border: 3px solid #292525;
+    border-radius: 250px;
+    height: 34px;
+    width: 34px;
+    margin: 0px 0px 0px 3px;
+}
+
+.menu {
+    background-color: aqua;
+    display: flex;
+}
+
+.btn{
+    margin: 0px 0px 0px 5px;
+}
+
+.righnav {
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+}
+
+#menu ul {
+    display: flex;
+    justify-content: right;
+    list-style: none;
+
+    margin: 0;
+    text-decoration: none;
+
+}
+
+#menu li {
+    background-color: transparent;
+
+    display: ;
+    padding: 05px;
+    text-decoration: none;
+}
+
+#menu li a {
+    background-color: transparent;
+    padding: 05px;
+    text-decoration: none;
+}
+
+#contant {
+    background: aqua;
+    display: flex;
+}
+
+#right-contant {
+    font-family: fangsong;
+}
+
+#contant h2 {
+    background: rgb(255, 255, 255);
+}
+
+#contant p {
+    font-style: normal;
+ font-size: 75%;
+}
+
+#menu-link {
+
+    width: 100%;
+}
+
+
+
+#footer {
+    list-style: none;
+    background: rgba(100, 183, 185, 0.61);
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.footer-link{
+    padding-inline: 5px;
+}

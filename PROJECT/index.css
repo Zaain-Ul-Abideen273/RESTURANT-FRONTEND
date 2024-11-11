@@ -1,0 +1,33 @@
+body{
+    background-color:linen;}
+    h2{text-align:center;}
+    h1{text-align:center;}
+    h3{text-align:center;}
+    p{font-size:30px;} 
+    p{text-align:center;}
+    body{
+    margin:0;
+    padding:0;
+    }
+    
+    #container{
+    width:900px;
+    margin:0 auto;
+    }
+    
+     .col1, .col2, .col3{
+    width:280px;
+    height: 800px;
+    float:left;
+    margin:10px;
+    }
+    
+    .col1{
+    background-color:#9370DB;
+    }
+    .col2{
+    background-color:pink;
+    }
+    .col3{
+    background-color:#9370DB;
+    }
